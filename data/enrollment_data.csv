@@ -1,0 +1,26 @@
+patient_id,site_id,country,screening_date,enrollment_date,status,age,gender,screen_failure_reason
+PT001,SITE01,Egypt,2024-01-05,2024-01-12,Enrolled,45,M,
+PT002,SITE01,Egypt,2024-01-06,,Screen Failed,52,F,Inclusion criteria not met
+PT003,SITE02,UAE,2024-01-08,2024-01-15,Enrolled,38,M,
+PT004,SITE01,Egypt,2024-01-10,2024-01-18,Enrolled,61,F,
+PT005,SITE03,Saudi Arabia,2024-01-12,,Screen Failed,29,M,Lab values out of range
+PT006,SITE02,UAE,2024-01-15,2024-01-22,Enrolled,44,F,
+PT007,SITE01,Egypt,2024-01-18,,Screen Failed,71,M,Age outside protocol range
+PT008,SITE03,Saudi Arabia,2024-01-20,2024-01-27,Enrolled,55,F,
+PT009,SITE02,UAE,2024-01-22,2024-02-01,Enrolled,49,M,
+PT010,SITE01,Egypt,2024-01-25,,Screen Failed,33,F,Withdrew consent
+PT011,SITE03,Saudi Arabia,2024-01-28,2024-02-05,Enrolled,58,M,
+PT012,SITE02,UAE,2024-02-01,2024-02-08,Enrolled,42,F,
+PT013,SITE01,Egypt,2024-02-03,,Screen Failed,65,M,Medical history exclusion
+PT014,SITE03,Saudi Arabia,2024-02-05,2024-02-12,Enrolled,51,F,
+PT015,SITE02,UAE,2024-02-08,2024-02-15,Enrolled,47,M,
+PT016,SITE01,Egypt,2024-02-10,,Screen Failed,28,F,Inclusion criteria not met
+PT017,SITE03,Saudi Arabia,2024-02-12,2024-02-19,Enrolled,56,M,
+PT018,SITE02,UAE,2024-02-15,2024-02-22,Enrolled,43,F,
+PT019,SITE01,Egypt,2024-02-18,2024-02-25,Enrolled,39,M,
+PT020,SITE03,Saudi Arabia,2024-02-20,,Screen Failed,70,F,Age outside protocol range
+PT021,SITE04,Jordan,2024-02-22,2024-03-01,Enrolled,48,F,
+PT022,SITE04,Jordan,2024-02-25,,Screen Failed,35,M,Lab values out of range
+PT023,SITE05,Lebanon,2024-02-27,2024-03-05,Enrolled,54,M,
+PT024,SITE05,Lebanon,2024-03-01,2024-03-08,Enrolled,41,F,
+PT025,SITE04,Jordan,2024-03-03,,Screen Failed,66,M,Age outside protocol range
